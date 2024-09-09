@@ -1,6 +1,8 @@
 # chowreg
 Structural change regression and chow test Use chowreg With STATA 18
 
+https://www.youtube.com/watch?v=zGpbkw87cc8
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
